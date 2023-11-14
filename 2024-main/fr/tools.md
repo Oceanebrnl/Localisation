@@ -15,4 +15,4 @@
 ### Tâche 3 : Outils de simplification du texte
 * JURASSIC : AI21 Studio donne accès à la suite de modèles linguistiques Jurassic-1. Jurassic-1 Jumbo est le plus grand modèle disponible au public sans liste d'attente. Le terrain de jeu du studio AI21 propose des promts prêts à l'emploi pour la simplification des textes (voir De-Jargonizer) https://www.ai21.com/studio
 * GPT-2 est un modèle linguistique non supervisé à grande échelle qui permet de réaliser des traductions automatiques, des réponses aux questions et des résumés sans formation spécifique à une tâche donnée. https://github.com/openai/gpt-2
-* Le modèle de transformateur T5 multilingue (mT5) peut être affiné pour la simplification du texte, par exemple en utilisant la bibliothèque SimpleT5\. https://github.com/google-research/multilingual-t5
+* Le modèle de transformateur T5 multilingue (mT5) peut être affiné pour la simplification du texte, par exemple en utilisant la bibliothèque [SimpleT5](https://github.com/Shivanandroy/simpleT5/)\. https://github.com/google-research/multilingual-t5
