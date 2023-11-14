@@ -1,6 +1,6 @@
 # SimpleText@CLEF-2024 Appel à communications
 
-Accueil | Appel à communications | Dates importantes | Tâches | Outils | Programme | Publications | Organisateurs | Contact | CLEF-2023
+[Accueil](./) | [Appel à communications](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks)  | [Outils](./tools)  | [Programme](./program) | [Publications](./publications) | [Organisateurs](./organizers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef/)
 
 ---
 
