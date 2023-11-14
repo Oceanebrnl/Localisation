@@ -14,21 +14,21 @@ Le grand public a tendance à éviter les sources fiables telles que la littéra
 La piste comporte les quatre tâches concrètes suivantes.
  
 ## [Tâches](./tasks)
-- Tâche 1 : Qu'est-ce qui entre (ou sort) ? Sélection des passages à inclure dans un résumé simplifié.
-- Tâche 2 : Qu'est-ce qui n'est pas clair ? Identification et explication de concepts difficiles (définitions, décryptage d'abréviations, contexte, applications,...).
-- Tâche 3 : Réécrivez ceci ! A partir d'une requête, simplifier des passages de résumés scientifiques.
-- Tâche 4 : SOTA ? À partir d'un article sur l'IA faisant état des performances d'un modèle sur des ensembles de données de référence, extraire toutes les informations connexes (tâche, ensemble de données, métrique, score).
+- [Tâche 1](./tasks) : Qu'est-ce qui entre (ou sort) ? Sélection des passages à inclure dans un résumé simplifié.
+- [Tâche 2](./tasks) : Qu'est-ce qui n'est pas clair ? Identification et explication de concepts difficiles (définitions, décryptage d'abréviations, contexte, applications,...).
+- [Tâche 3](./tasks) : Réécrivez ceci ! A partir d'une requête, simplifier des passages de résumés scientifiques.
+- [Tâche 4](./tasks) : SOTA ? À partir d'un article sur l'IA faisant état des performances d'un modèle sur des ensembles de données de référence, extraire toutes les informations connexes (tâche, ensemble de données, métrique, score).
 
 ## Comment participer
-Pour participer, il faut s'inscrire sur le site de la CLEF. L'inscription est ouverte le 13 novembre 2023.
+Pour participer, il faut s'inscrire sur le site de la [CLEF](https://clef2024.clef-initiative.eu/index.php). L'inscription est ouverte le 13 novembre 2023.
 
-Tous les membres de l'équipe doivent s'inscrire à la liste de diffusion SimpleText : https://groups.google.com/g/simpletext. 
+Tous les membres de l'équipe doivent s'inscrire à la liste de diffusion SimpleText : [https://groups.google.com/g/simpletext](https://groups.google.com/g/simpletext) 
 
 Les données seront mises à la disposition de tous les participants inscrits.
 
 ## Remerciements  
 
-SimpleText est soutenu par le réseau de recherche français sur le Big Data - Data Science MADICS. Cette recherche a été financée, en tout ou en partie, par l'Agence nationale de la recherche (ANR) dans le cadre du projet ANR-22-CE23-0019-01.
+SimpleText est soutenu par le réseau de recherche français sur le Big Data - Data Science [MADICS](https://www.madics.fr/). Cette recherche a été financée, en tout ou en partie, par l'Agence nationale de la recherche (ANR) dans le cadre du projet [ANR-22-CE23-0019-01](https://anr.fr/Project-ANR-22-CE23-0019).
 
 ## Références  
 
@@ -40,6 +40,13 @@ SimpleText est soutenu par le réseau de recherche français sur le Big Data - D
 
 ---
 
+
+<div align="center">
+ <a href="https://anr.fr/Projet-ANR-22-CE23-0019"><img src="img/ANR-logo-2021-complet.jpg" height="120"></a>
+ <a href="https://www.madics.fr/actions/simpletext/"><img src="img/Logo-CNRS-MaDICS.jpg" height="120"></a>
+ <a href="https://www.clef-initiative.eu/"><img src="img/clef-logo.png" height="120"></a>
+ <a href="https://clef2024.clef-initiative.eu/"><img src="img/clef2024.png" height="120"></a>
+</div>
 
 <div align="center">
  <a href="https://anr.fr/Projet-ANR-22-CE23-0019"><img src="img/ANR-logo-2021-complet.jpg" height="120"></a> <a href="https://www.madics.fr/actions/simpletext/"><img src="img/Logo-CNRS-MaDICS.jpg" height="120"></a> <a href="https://www.clef-initiative.eu/"><img src="img/clef-logo.png" height="120"></a> <a href="https://clef2024.clef-initiative.eu/"><img src="img/clef2024.png" height="120"></a>
